@@ -19,6 +19,10 @@
 <h2>Practice</h2>
 <pre>
 <!-- ここにプログラムを記述します -->
+<?php
+print('phpを勉強中です');
+?>
+
 </pre>
 </main>
 </body>    
