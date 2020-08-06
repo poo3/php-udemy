@@ -20,7 +20,7 @@
 <pre>
 <!-- ここにプログラムを記述します -->
 <?php
-print(date('G時　i分　s秒'));
+print(date('現在は'.'G時　i分　s秒'.'です'));
 ?>
 </pre>
 </main>
