@@ -19,6 +19,9 @@
 <h2>Practice</h2>
 <pre>
 <!-- ここにプログラムを記述します -->
+<?php
+print(date('G時　i分　s秒'));
+?>
 </pre>
 </main>
 </body>    
